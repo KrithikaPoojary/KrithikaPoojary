@@ -1,14 +1,13 @@
 
 <h2>💫 About Me</h2>
-
 <p> Full Stack Web Developer and  AI & Machine Learning Enthusiast</p>
-<p>📍 Moodbidri, Karnataka</p>
+<p>📍 Mangalore, Karnataka</p>
 <p>🎓 MCA — Mangalore Institute of Technology & Engineering (2024–2026)<br>
 CGPA: 8.53</p>
 <p>🎓 BCA — Sri Mahaveera College, Moodbidri (2021–2024)<br>
 CGPA: 9.32</p>
 
-💻 Tech Stack:
+Tech Stack:
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=openjdk&logoColor=white)

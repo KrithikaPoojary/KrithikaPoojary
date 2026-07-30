@@ -1,10 +1,12 @@
 
-💫 About Me:
+<h2>💫 About Me</h2>
 
-Full Stack Web Developer | AI-ML Enthusiast
-📍 Moodbidri, Karnataka
-🎓 MCA — Mangalore Institute of Technology & Engineering (2024–2026), CGPA: 8.53
-🎓 BCA — Sri Mahaveera College, Moodbidri (2021–2024), CGPA: 9.32
+<p> Full Stack Web Developer and  AI & Machine Learning Enthusiast</p>
+<p>📍 Moodbidri, Karnataka</p>
+<p>🎓 MCA — Mangalore Institute of Technology & Engineering (2024–2026)<br>
+CGPA: 8.53</p>
+<p>🎓 BCA — Sri Mahaveera College, Moodbidri (2021–2024)<br>
+CGPA: 9.32</p>
 
 💻 Tech Stack:
 

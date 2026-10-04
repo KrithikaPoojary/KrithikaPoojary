@@ -2,7 +2,7 @@
 <h2>💫 About Me</h2>
 <p> Full Stack Web Developer and  AI & Machine Learning Enthusiast</p>
 <p>📍 Mangalore, Karnataka</p>
-<p>🎓 <b>MCA</b> — Mangalore Institute of Technology & Engineering (2024–2026) | <b>CGPA:</b> 8.53</p>
+<p>🎓 <b>MCA</b> — Mangalore Institute of Technology & Engineering (2024–2026) | <b>CGPA:</b> 8.75</p>
 <p>🎓 <b>BCA</b> — Sri Mahaveera College, Moodbidri (2021–2024) | <b>CGPA:</b> 9.32</p>
 
 
